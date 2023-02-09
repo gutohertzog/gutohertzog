@@ -45,8 +45,8 @@ Here are some ideas to get you started:
     <code><img tittle="Linux" height="48" src="images/linux-original.svg"></code>
     <code><img tittle="Ubuntu" height="48" src="images/ubuntu-plain-wordmark.svg"></code>
     <code><img tittle="Fedora" height="48" src="images/fedora-original.svg"></code>
-    <img tittle="Bootstrap" height="48" src="images/bootstrap-original-wordmark.svg">
-    <img tittle="Django" height="48" src="images/django-plain-wordmark.svg">
+    <code><img tittle="Bootstrap" height="48" src="images/bootstrap-original-wordmark.svg"></code>
+    <code><img tittle="Django" height="48" src="images/django-plain-wordmark.svg"></code>
 </p>
 <hr>
 
@@ -55,8 +55,7 @@ Here are some ideas to get you started:
     <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutohertzog&hide=html,css&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=gutohertzog&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </p>
-<br>
-
+<hr>
 
 ## Contact
 <div>
@@ -65,7 +64,6 @@ Here are some ideas to get you started:
     <!-- <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
     </br>
     </br>
+</div>
 
 ![Snake animation](https://github.com/gutohertzog/gutohertzog/blob/output/github-contribution-grid-snake.svg)
-
-</div>
