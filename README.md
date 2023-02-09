@@ -15,51 +15,48 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hellot there, I am Guto Hertzog!
-</br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gutohertzog.gutohertzog">
 
-<div>
-    <a href="https://github.com/gutohertzog">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutohertzog&layout=compact&langs_count=16&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gutohertzog&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
-</div>
-<br><br>
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Guto+Hertzog!&center=true&size=30">
+    </a>
+</h1>
 
-## Programming Skills
-<div style="display: inline_block"><br>
-    <img height="40" align="center" alt="Guto-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img height="40" align="center" alt="Guto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img height="40" align="center" alt="Guto-CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img height="40" align="center" alt="Guto-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img height="40" align="center" alt="Guto-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img height="40" align="center" alt="Guto-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<br>
+<p align="center">
+    <code><img tittle="SQLServer" height="48" src="images/microsoftsqlserver-plain-wordmark.svg"></code>
+    <code><img tittle="Python" height="48" src="images/python-original-wordmark.svg"></code>
+    <code><img tittle="Git" height="48" src="images/git-original-wordmark.svg"></code>
+    <code><img tittle="PostgreSQL" height="48" src="images/postgresql-original-wordmark.svg"></code>
+    <code><img tittle="SQLite" height="48" src="images/sqlite-original-wordmark.svg"></code>
+    <code><img tittle="MongoDB" height="48" src="images/mongodb-original-wordmark.svg"></code>
+    <code><img tittle="C" height="48" src="images/c-original.svg"></code>
+    <code><img tittle="C++" height="48" src="images/cplusplus-original.svg"></code>
+    <code><img tittle="Java" height="48" src="images/java-original-wordmark.svg"></code>
+    <code><img tittle="HTML" height="48" src="images/html5-original-wordmark.svg"></code>
+    <code><img tittle="CSS" height="48" src="images/css3-original-wordmark.svg"></code>
+    <code><img tittle="JS" height="48" src="images/javascript-original.svg"></code>
+    <code><img tittle="PHP" height="48" src="images/php-original.svg"></code>
+    <code><img tittle="VSCode" height="48" src="images/vscode-original-wordmark.svg"></code>
+    <code><img tittle="Jupyter" height="48" src="images/jupyter-original-wordmark.svg"></code>
+    <code><img tittle="GitHub" height="48" src="images/github-original-wordmark.svg"></code>
+    <code><img tittle="Linux" height="48" src="images/linux-original.svg"></code>
+    <code><img tittle="Ubuntu" height="48" src="images/ubuntu-plain-wordmark.svg"></code>
+    <code><img tittle="Fedora" height="48" src="images/fedora-original.svg"></code>
+    <img tittle="Bootstrap" height="48" src="images/bootstrap-original-wordmark.svg">
+    <img tittle="Django" height="48" src="images/django-plain-wordmark.svg">
+</p>
+<hr>
+
+<p align="center">
+    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=gutohertzog&theme=react&border=61dafb&hide_border=true" alt="gutohertzog" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutohertzog&hide=html,css&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=gutohertzog&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</p>
 <br>
 
-## Software Skills
-<div style="display: inline_block"><br>
-    <img height="40" alt="Guto-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-    <img height="40" alt="Guto-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-    <img height="40" alt="Guto-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-    <img height="40" alt="Guto-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img height="40" alt="Guto-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
-    <img height="40" alt="Guto-Fedora" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fedora/fedora-original.svg">
-</div>
-<br>
-
-## Framework Skills
-<div style="display: inline_block"><br>
-    <img height="40" alt="Guto-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
-    <img height="40" alt="Guto-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg">
-</div>
-<br>
 
 ## Contact
 <div>
