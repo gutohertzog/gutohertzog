@@ -2,7 +2,7 @@ name: Gera Snake
 on:
   # executa a cada 12 horas
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "* * * */1 *"
   # esse comando permite executar a Ação automaticamente da aba Actions
   workflow_dispatch:
 # sequência de execuções deste fluxo
