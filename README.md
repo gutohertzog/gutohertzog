@@ -59,12 +59,7 @@ Here are some ideas to get you started:
 
 ## Contact
 <div>
-    <a href="https://www.linkedin.com/in/augusto-hertzog/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/GutoHertzog" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-    <!-- <a href="mailto:@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
-    </br>
-    </br>
+    <a href="https://www.linkedin.com/in/augusto-hertzog/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/GutoHertzog" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Twitter-%23EA4335?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-<hr>
 
-![Snake animation](https://github.com/gutohertzog/gutohertzog/blob/output/github-contribution-grid-snake.svg)
