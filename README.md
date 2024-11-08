@@ -31,22 +31,12 @@ Here are some ideas to get you started:
     <code><img tittle="Git" height="48" src="images/git-original-wordmark.svg"></code>
     <code><img tittle="PostgreSQL" height="48" src="images/postgresql-original-wordmark.svg"></code>
     <code><img tittle="SQLite" height="48" src="images/sqlite-original-wordmark.svg"></code>
-    <code><img tittle="MongoDB" height="48" src="images/mongodb-original-wordmark.svg"></code>
     <code><img tittle="C" height="48" src="images/c-original.svg"></code>
     <code><img tittle="C++" height="48" src="images/cplusplus-original.svg"></code>
-    <code><img tittle="Java" height="48" src="images/java-original-wordmark.svg"></code>
-    <code><img tittle="HTML" height="48" src="images/html5-original-wordmark.svg"></code>
-    <code><img tittle="CSS" height="48" src="images/css3-original-wordmark.svg"></code>
-    <code><img tittle="JS" height="48" src="images/javascript-original.svg"></code>
-    <code><img tittle="PHP" height="48" src="images/php-original.svg"></code>
+    <code><img tittle="Django" height="48" src="images/django-plain-wordmark.svg"></code>
     <code><img tittle="VSCode" height="48" src="images/vscode-original-wordmark.svg"></code>
-    <code><img tittle="Jupyter" height="48" src="images/jupyter-original-wordmark.svg"></code>
     <code><img tittle="GitHub" height="48" src="images/github-original-wordmark.svg"></code>
     <code><img tittle="Linux" height="48" src="images/linux-original.svg"></code>
-    <code><img tittle="Ubuntu" height="48" src="images/ubuntu-plain-wordmark.svg"></code>
-    <code><img tittle="Fedora" height="48" src="images/fedora-original.svg"></code>
-    <code><img tittle="Bootstrap" height="48" src="images/bootstrap-original-wordmark.svg"></code>
-    <code><img tittle="Django" height="48" src="images/django-plain-wordmark.svg"></code>
 </p>
 <hr>
 
